@@ -1,0 +1,28 @@
+img {
+    height: 200px;
+}
+
+h3 {
+    border: solid pink 4px;
+    padding: 8px;
+}
+
+p {
+    border: solid yellow 4px;
+    padding: 8px;
+    margin: 8px;
+}
+
+
+img { 
+    border: dashed pink 4px;
+    margin: 10px;}
+
+li { 
+    border: solid black 2px;
+padding: 6px;
+margin: 6px;}
+
+ul {
+    border: dotted purple 2px;
+}
